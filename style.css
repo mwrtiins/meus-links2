@@ -80,5 +80,5 @@ p{
 a:hover{
     background-color: var(--dark-blue);
     color: var(--white);
-    transition: 2s;
+    transition: .4s;
 }
